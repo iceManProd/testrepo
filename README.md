@@ -1,2 +1,2 @@
 # testrepo
-python archive
+First Python archive in GitHub
